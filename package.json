@@ -1,9 +1,15 @@
 {
   "name": "validate__package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test Package!",
   "main": "validation.js",
-  "keywords": ["npm", "package", "vuetify", "vue.js", "validation"],
+  "keywords": [
+    "npm",
+    "package",
+    "vuetify",
+    "vue.js",
+    "validation"
+  ],
   "author": "Thirapa",
   "license": "MIT",
   "repository": {
@@ -15,4 +21,3 @@
     "url": "https://github.com/thirapa/validation-package/issues"
   }
 }
-
