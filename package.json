@@ -1,5 +1,5 @@
 {
-  "name": "validate__package",
+  "name": "validate__packages",
   "version": "1.0.1",
   "description": "Test Package!",
   "main": "validation.js",
